@@ -1,4 +1,4 @@
-// npm - global command, comes with node
+// npm - global command, comes with node test
 // npm --version
 
 // local dependency - use it only in this project
